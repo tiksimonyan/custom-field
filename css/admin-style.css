@@ -1,0 +1,33 @@
+/* admin-style.css */
+
+/* Custom styles for the meta box area */
+.edit-post-meta-boxes-area {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    width: 50%;
+}
+
+/* Custom styles for the advanced area */
+.edit-post-meta-boxes-area.is-advanced {
+    background-color: #f0f0f0;
+}
+
+/* Custom field labels */
+.custom-fields-label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* Custom field inputs */
+.custom-fields-input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+
